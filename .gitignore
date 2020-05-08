@@ -1,0 +1,12 @@
+.idea
+vendor
+node_modules/
+.env
+storage/*
+
+#echo "# JProjects" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git remote add origin https://github.com/jeandev84/JProjects.git
+#git push -u origin master
